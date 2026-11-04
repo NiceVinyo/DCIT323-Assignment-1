@@ -1,1 +1,2 @@
 # DCIT323-Assignment-1
+THIS IS THE LAB 1 OF DCIT323
